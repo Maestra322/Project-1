@@ -19,6 +19,11 @@
   font-weight: 400;
 }
 
+/*
+Добавить шрифт Gilda Display и накинуть на иконки "Главная", "Каталог", "О нас"
+Класс для них создан внизу "family"
+*/
+
 * {
   margin: 0;
   padding: 0;
@@ -28,7 +33,7 @@ html,
 body {
   height: 100%;
   background-size: cover;
-  background-image: url("Backg.jpg");
+  background-image: url("../img/Backg.jpg");
 }
 
 .wrapper {
@@ -82,12 +87,20 @@ body {
   text-align: right;
   font-family: "GildaDisplayRegular";
   color: #b1a9a2;
+  font-size: 20px;
+  letter-spacing: 5px;
 }
 
 .headmod {
   font-family: "Imprint MT Shadow";
-  color: #b1a9a2;
+  color: #d4cac0;
 }
-.headmode {
 
+.family {
+  font-family: ;
 }
+
+
+
+
+
