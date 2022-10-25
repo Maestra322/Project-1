@@ -1,34 +1,93 @@
+@font-face {
+  font-family: "GildaDisplayRegular";
+  src: url("../fonts/GildaDisplayRegular.eot");
+  src: url("../fonts/GildaDisplayRegular.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/GildaDisplayRegular.woff") format("woff"),
+    url("../fonts/GildaDisplayRegular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Imprint MT Shadow";
+  src: url("../fonts/GildaDisplayRegular.eot");
+  src: url("../fonts/GildaDisplayRegular.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/GildaDisplayRegular.woff") format("woff"),
+    url("../fonts/Imprint MT Shadow.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+}
+
 * {
-	margin: 0;
-	padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 html,
 body {
-	height: 100%;
-	background-size: cover;
-	background-image: url('Backg.jpg');
+  height: 100%;
+  background-size: cover;
+  background-image: url("Backg.jpg");
 }
 
 .wrapper {
-	display: flex;
-	flex-direction: column;
-	min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
 }
 
 .mid {
-	flex: 1 0 auto;
+  flex: 1 0 auto;
 }
 
 .under {
-	height: 70px;
-	background-color: white;
-	flex: 0 0 auto;
-	text-align: center;
+  height: 70px;
+  background-color: white;
+  flex: 0 0 auto;
+  text-align: center;
 }
 
 .logo_footer {
-	padding-top: 20px;
+  padding-top: 20px;
 }
 
+.logo_img {
+  text-align: center;
+  padding-left: 10px;
+}
 
+.navbar {
+  background-color: #5e493f;
+}
+
+.nav-link {
+  color: white;
+}
+
+.nav-link {
+  color: white;
+}
+
+.navbar-brand {
+  text-align: center;
+  position: relative;
+}
+
+.logohead {
+  text-align: right;
+}
+
+.numberhead {
+  text-align: right;
+  font-family: "GildaDisplayRegular";
+  color: #b1a9a2;
+}
+
+.headmod {
+  font-family: "Imprint MT Shadow";
+  color: #b1a9a2;
+}
+.headmode {
+
+}
