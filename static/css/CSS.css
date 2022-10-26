@@ -19,10 +19,6 @@
   font-weight: 400;
 }
 
-/*
-Добавить шрифт Gilda Display и накинуть на иконки "Главная", "Каталог", "О нас"
-Класс для них создан внизу "family"
-*/
 
 * {
   margin: 0;
@@ -35,7 +31,7 @@ body {
   background-size: cover;
 }
 
-.Back{
+.Back {
   background-image: url(../img/Backg.jpg);
 }
 
@@ -100,10 +96,7 @@ body {
 }
 
 .family {
-  font-family: ;
+  font-family: "GildaDisplayRegular";
+  color: #b1a9a2;
+
 }
-
-
-
-
-
