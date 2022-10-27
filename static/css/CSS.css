@@ -19,7 +19,6 @@
   font-weight: 400;
 }
 
-
 * {
   margin: 0;
   padding: 0;
@@ -98,5 +97,17 @@ body {
 .family {
   font-family: "GildaDisplayRegular";
   color: #b1a9a2;
+  margin-right: 50px;
+  font-size: 20px;
+}
 
+.but {
+  border-radius: 20px;
+  margin-right: 80px;
+  margin-bottom: -25px;
+  width: 170px;
+  color: #5e493f;
+  background-color: rgb(209, 207, 207);
+  font-family: "GildaDisplayRegular";
+  font-size: 17px;
 }
