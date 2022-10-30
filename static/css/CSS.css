@@ -87,17 +87,19 @@ body {
   color: #b1a9a2;
   font-size: 20px;
   letter-spacing: 5px;
+  right: 15px;
 }
 
 .headmod {
   font-family: "Imprint MT Shadow";
   color: #d4cac0;
+  right: 10px;
+  top: 3px;
 }
 
 .family {
-  font-family: "GildaDisplayRegular";
+  font-family: "Arial";
   color: #b1a9a2;
-  margin-right: 50px;
   font-size: 20px;
 }
 
@@ -110,4 +112,17 @@ body {
   background-color: rgb(209, 207, 207);
   font-family: "GildaDisplayRegular";
   font-size: 17px;
+}
+
+.position {
+  left: 30px;
+}
+
+.marg-right {
+  margin-left: 70px;
+  margin-right: 55px;
+}
+
+.left-mar {
+  margin-left: 30px;
 }
