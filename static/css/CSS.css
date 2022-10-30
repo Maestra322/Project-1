@@ -1,20 +1,20 @@
 @font-face {
   font-family: "GildaDisplayRegular";
-  src: url("../fonts/GildaDisplayRegular.eot");
-  src: url("../fonts/GildaDisplayRegular.eot?#iefix")
+  src: url("../../fonts/GildaDisplayRegular.eot");
+  src: url("../../fonts/GildaDisplayRegular.eot?#iefix")
       format("embedded-opentype"),
-    url("../fonts/GildaDisplayRegular.woff") format("woff"),
-    url("../fonts/GildaDisplayRegular.ttf") format("truetype");
+    url("../../fonts/GildaDisplayRegular.woff") format("woff"),
+    url("../../fonts/GildaDisplayRegular.ttf") format("truetype");
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
   font-family: "Imprint MT Shadow";
-  src: url("../fonts/GildaDisplayRegular.eot");
-  src: url("../fonts/GildaDisplayRegular.eot?#iefix")
+  src: url("../../fonts/GildaDisplayRegular.eot");
+  src: url("../../fonts/GildaDisplayRegular.eot?#iefix")
       format("embedded-opentype"),
-    url("../fonts/GildaDisplayRegular.woff") format("woff"),
-    url("../fonts/Imprint MT Shadow.ttf") format("truetype");
+    url("../../fonts/GildaDisplayRegular.woff") format("woff"),
+    url("../../fonts/Imprint MT Shadow.ttf") format("truetype");
   font-style: normal;
   font-weight: 400;
 }
